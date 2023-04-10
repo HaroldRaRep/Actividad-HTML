@@ -1,0 +1,22 @@
+body
+{
+    color: gray;
+    text-align: left;
+    font-family: "Arial";
+    font-size: 16px ;
+
+}
+
+#container
+{
+    width: 30%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #1d0505;
+    margin: 0 auto;
+}
+
+#container h1
+{
+font-size: 20px;
+}
