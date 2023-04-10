@@ -2,11 +2,18 @@ body
 {
     color: gray;
     text-align: left;
-    font-family: "Arial";
+    font-family: Courier;
     font-size: 16px ;
 
 }
-
+#cabecera h1
+{
+background: #33d;
+color: white;
+font-weight: bold;
+margin: 0;
+padding: 0.5em;
+}
 #container
 {
     width: 30%;
